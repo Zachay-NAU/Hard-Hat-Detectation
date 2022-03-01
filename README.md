@@ -2,7 +2,7 @@
 
 In this github, I will show you how to run the Hardhat Detectation with Jetson Nano.
 
-Here are 2 ways to choice to run this demo. 
+Here are 2 ways to run this demo. 
 
 **Method 1:** (for those who want to run the demo directally) Prepare a SD card larger than 16 GB and flash the image file into your device
 
