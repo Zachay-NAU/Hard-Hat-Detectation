@@ -51,7 +51,7 @@ Update python 3 point to python3.7
     sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 2
     sudo update-alternatives --config python3
     
-Press <Enter> and choose **2**
+Press **Enter** and choose **2**
     
 ### Step 2. Upgrage pip3
     
@@ -66,7 +66,7 @@ Press <Enter> and choose **2**
 
 Please follow this official link: https://docs.edgeimpulse.com/docs/linux-python-sdk
     
-### Step 5.(Optional for those who want to use their own project and model) Deploy your Jetson to your project
+### Step 5. (Optional for those who want to use their own project and model) Deploy your Jetson to your project
     
 Please follow this official link: https://docs.edgeimpulse.com/docs/nvidia-jetson-nano
     
