@@ -72,7 +72,7 @@ Please follow this official link: https://docs.edgeimpulse.com/docs/nvidia-jetso
     
     sudo apt install toilet
     
-### Step 7. Download my modefile and python demo and run it with:
+### Step 7. Download my modefile and python demo (```modelfile.eim``` ```hardhat_detectation.py``` ```device_patches.py```) and then run it with:
     
     python3 hard_hat_detectation.py /home/<your_device_name>/modelfile.eim
     
