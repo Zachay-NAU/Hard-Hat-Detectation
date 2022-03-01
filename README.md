@@ -18,7 +18,7 @@ The whole tutorial of hard hat detectation can be learn from this link: https://
 
 ### Step 1. Downoad the image file
 
-Click [**here**]() to download the image file
+Click here to download the image file: https://drive.google.com/file/d/13rl93ZB3LOu0jbArKETDJ9V-N7MJw0uK/view?usp=sharing
 
 ### Step 2. Flash this image file into your SD card or Jetson Nano's eMMC
 
