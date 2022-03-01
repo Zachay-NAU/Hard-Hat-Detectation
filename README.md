@@ -2,6 +2,8 @@
 
 In this github, I will show you how to run the Hardhat Detectation with Jetson Nano.
 
+The whole tutorial of hard hat detectation can be learn from this link: https://wiki.seeedstudio.com/HardHat
+
 Here are 2 ways to run this demo. 
 
 **Method 1:** (for those who want to run the demo directally) Prepare a SD card larger than 16 GB and flash the image file into your device
@@ -15,8 +17,6 @@ All the methods can let you fully experience Edge Impulse if you want to use you
 This is the system image file for Jetson nano created by SeeedStudio with necessary environment.
 
 Everyone can download this file which is for personal study use only.
-
-The whole tutorial of hard hat detectation can be learn from this link: https://wiki.seeedstudio.com/HardHat/#deploy-the-ml-model-through-linux-python-sdk
 
 ### Step 1. Downoad the image file
 
