@@ -16,19 +16,19 @@ Everyone can download this file which is for personal study use only.
 
 The whole tutorial of hard hat detectation can be learn by clicking this [**link**](https://wiki.seeedstudio.com/HardHat/#deploy-the-ml-model-through-linux-python-sdk)
 
-## Step 1. Downoad the image file
+### Step 1. Downoad the image file
 
 Click [**here**]() to download the image file
 
-## Step 2. Flash this image file into your SD card or Jetson Nano's eMMC
+### Step 2. Flash this image file into your SD card or Jetson Nano's eMMC
 
-## Step 3. Log in with the username and password below:
+### Step 3. Log in with the username and password below:
 
     username:jetson-nano
 
     password:nvidia
     
-## Step 4. Open the terminal and put in the command below:
+### Step 4. Open the terminal and put in the command below:
 
      python3 hard_hat_detectation.py /home/seeedstud/modelfile.eim
      
