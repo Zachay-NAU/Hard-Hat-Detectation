@@ -8,6 +8,8 @@ Here are 2 ways to choice to run this demo.
 
 All the methods can let you fully experience Edge Impulse if you want to use your own account and project.
 
+## Method 1
+
 This is the system image file for Jetson nano created by SeeedStudio with necessary environment.
 
 Everyone can download this file which is for personal study use only.
@@ -15,6 +17,8 @@ Everyone can download this file which is for personal study use only.
 The whole tutorial of hard hat detectation can be learn by clicking this [**link**](https://wiki.seeedstudio.com/HardHat/#deploy-the-ml-model-through-linux-python-sdk)
 
 ## Step 1. Downoad the image file
+
+Click [**here**]() to download the image file
 
 ## Step 2. Flash this image file into your SD card or Jetson Nano's eMMC
 
@@ -27,3 +31,5 @@ The whole tutorial of hard hat detectation can be learn by clicking this [**link
 ## Step 4. Open the terminal and put in the command below:
 
      python3 hard_hat_detectation.py /home/seeedstud/modelfile.eim
+     
+
