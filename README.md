@@ -30,7 +30,7 @@ Click [**here**]() to download the image file
     
 ### Step 4. Open the terminal and put in the command below:
 
-    python3 hard_hat_detectation.py /home/seeedstud/modelfile.eim
+    python3 hard_hat_detectation.py /home/seeedstudio/modelfile.eim
      
      
 ## Method 2
@@ -67,3 +67,21 @@ Please follow this official link: https://docs.edgeimpulse.com/docs/linux-python
 ### Step 5.(Optional for those who want to use their own project and model) Deploy your Jetson to your project
     
 Please follow this official link: https://docs.edgeimpulse.com/docs/nvidia-jetson-nano
+    
+### Step 6. Install the command line output plugin
+    
+    sudo apt install toilet
+    
+### Step 7. Download my modefile and python demo and run it with:
+    
+    python3 hard_hat_detectation.py /home/<your_device_name>/modelfile.eim
+    
+ PS: If you donnot want to use my model, you can download your own model to the location: ```/home/<your_device_name>```
+    
+    edge-impulse-linux-runner --download modelfile.eim
+    
+ then repeat the command ```python3 hard_hat_detectation.py /home/<your_device_name>/modelfile.eim```
+    
+ ## Have Fun !
+    
+    
